@@ -1,8 +1,0 @@
-test-environment/terraform.tfstate
-test-environment/.terraform/modules/modules.json
-dev-environment/terraform.tfstate
-dev-environment/terraform.tfstate.backup
-dev-environment/.terraform/providers/registry.terraform.io/hashicorp/aws/5.37.0/darwin_arm64/terraform-provider-aws_v5.37.0_x5
-test-environment/.terraform/providers/registry.terraform.io/hashicorp/aws/5.37.0/darwin_arm64/terraform-provider-aws_v5.37.0_x5
-test-environment/.terraform.lock.hcl
-dev-environment/.terraform.lock.hcl
